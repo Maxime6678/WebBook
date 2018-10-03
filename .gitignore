@@ -39,6 +39,6 @@ jspm_packages
 # Others
 .env
 package-lock.json
-server/.sass-cache
+server/static/.sass-cache
 server/static/sass
 server/static/config.rb
